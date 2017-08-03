@@ -1,0 +1,30 @@
+PODS:
+  - Nimble (7.0.1)
+  - Quick (1.1.0)
+  - Realm (2.8.3):
+    - Realm/Headers (= 2.8.3)
+  - Realm/Headers (2.8.3)
+  - RealmAdditions (1.0.0):
+    - RealmSwift
+  - RealmSwift (2.8.3):
+    - Realm (= 2.8.3)
+
+DEPENDENCIES:
+  - Nimble
+  - Quick
+  - RealmAdditions (from `../`)
+
+EXTERNAL SOURCES:
+  RealmAdditions:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 657d000e11df8aebe27cdaf9d244de7f30ed87f7
+  Quick: dafc587e21eed9f4cab3249b9f9015b0b7a7f71d
+  Realm: 3601ef091c8c499a31101d8563b991e75546cdce
+  RealmAdditions: da7fac6b6ee7f525172d8a11e87449141504a66d
+  RealmSwift: 8183818515471b01a99abdd2970f8e4fd52b6f4a
+
+PODFILE CHECKSUM: 8e0821081480938dbbd7f21c122e043acc4e1cb1
+
+COCOAPODS: 1.2.1

@@ -1,0 +1,17 @@
+# Deployment Target
+platform :ios, '8.0'
+
+# Add pods as frameworks so we could add obj-c and swift 3.0 pods
+use_frameworks!
+
+
+target 'RealmAdditions_Example' do
+    pod 'RealmAdditions', :path => '../'
+
+    target 'RealmAdditions_Tests' do
+        inherit! :search_paths
+
+        pod 'Quick'
+        pod 'Nimble'
+    end
+end
