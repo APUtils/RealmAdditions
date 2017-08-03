@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RealmAdditions'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'Adds Realm representation for Int, String, Double and Bool'
 
 # This description is used to generate tags and improve search results.
