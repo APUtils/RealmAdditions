@@ -1,9 +1,10 @@
 # RealmAdditions
 
-[![CI Status](http://img.shields.io/travis/anton-plebanovich/RealmAdditions.svg?style=flat)](https://travis-ci.org/anton-plebanovich/RealmAdditions)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![Version](https://img.shields.io/cocoapods/v/RealmAdditions.svg?style=flat)](http://cocoapods.org/pods/RealmAdditions)
 [![License](https://img.shields.io/cocoapods/l/RealmAdditions.svg?style=flat)](http://cocoapods.org/pods/RealmAdditions)
 [![Platform](https://img.shields.io/cocoapods/p/RealmAdditions.svg?style=flat)](http://cocoapods.org/pods/RealmAdditions)
+[![CI Status](http://img.shields.io/travis/anton-plebanovich/RealmAdditions.svg?style=flat)](https://travis-ci.org/anton-plebanovich/RealmAdditions)
 
 Adds Realm representation for Int, String, Double and Bool. This allows to store them in Realm Lists.
 
@@ -12,6 +13,16 @@ Adds Realm representation for Int, String, Double and Bool. This allows to store
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Installation
+
+#### Carthage
+
+Please check [official guide](https://github.com/Carthage/Carthage#if-youre-building-for-ios-tvos-or-watchos)
+
+Cartfile:
+
+```
+github "APUtils/RealmAdditions"
+```
 
 #### CocoaPods
 

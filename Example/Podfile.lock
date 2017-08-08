@@ -4,8 +4,8 @@ PODS:
   - Realm (2.8.3):
     - Realm/Headers (= 2.8.3)
   - Realm/Headers (2.8.3)
-  - RealmAdditions (1.0.0):
-    - RealmSwift
+  - RealmAdditions (1.0.2):
+    - RealmSwift (~> 2)
   - RealmSwift (2.8.3):
     - Realm (= 2.8.3)
 
@@ -16,15 +16,15 @@ DEPENDENCIES:
 
 EXTERNAL SOURCES:
   RealmAdditions:
-    :path: "../"
+    :path: ../
 
 SPEC CHECKSUMS:
   Nimble: 657d000e11df8aebe27cdaf9d244de7f30ed87f7
   Quick: dafc587e21eed9f4cab3249b9f9015b0b7a7f71d
   Realm: 3601ef091c8c499a31101d8563b991e75546cdce
-  RealmAdditions: da7fac6b6ee7f525172d8a11e87449141504a66d
+  RealmAdditions: 2af2fe5016e8ddc8becb6b8c36ecbeeb70df553e
   RealmSwift: 8183818515471b01a99abdd2970f8e4fd52b6f4a
 
 PODFILE CHECKSUM: 8e0821081480938dbbd7f21c122e043acc4e1cb1
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.3.1

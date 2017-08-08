@@ -28,9 +28,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3AD01B7AE318EE696C3A51E9 /* .gitignore */ = {isa = PBXFileReference; includeInIndex = 1; name = .gitignore; path = ../.gitignore; sourceTree = "<group>"; };
+		3AD01B7AE318EE696C3A51E9 /* .gitignore */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = .gitignore; path = ../.gitignore; sourceTree = "<group>"; };
 		4376CF59413C2F934535E2BF /* Pods_RealmAdditions_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RealmAdditions_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		4ADF44578EF16339F5D9A887 /* .cocoadocs.yml */ = {isa = PBXFileReference; includeInIndex = 1; name = .cocoadocs.yml; path = ../.cocoadocs.yml; sourceTree = "<group>"; };
+		4ADF44578EF16339F5D9A887 /* .cocoadocs.yml */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = .cocoadocs.yml; path = ../.cocoadocs.yml; sourceTree = "<group>"; };
 		5F7AB7FF1953B4B687D2F051 /* Pods_RealmAdditions_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RealmAdditions_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD01AFB9204008FA782 /* RealmAdditions_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RealmAdditions_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -44,15 +44,15 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		645E0EE57D831438164358E0 /* Pods-RealmAdditions_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RealmAdditions_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RealmAdditions_Tests/Pods-RealmAdditions_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		7562A44A867D4E19CB5A385F /* Pods-RealmAdditions_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RealmAdditions_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RealmAdditions_Tests/Pods-RealmAdditions_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		B1D2B1E91597AE14F30E6459 /* .travis.yml */ = {isa = PBXFileReference; includeInIndex = 1; name = .travis.yml; path = ../.travis.yml; sourceTree = "<group>"; };
-		B89C4198960A1F51637EE2D0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		BF534695B49F50999B2624C1 /* CHANGELOG.md */ = {isa = PBXFileReference; includeInIndex = 1; name = CHANGELOG.md; path = ../CHANGELOG.md; sourceTree = "<group>"; };
+		B1D2B1E91597AE14F30E6459 /* .travis.yml */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = .travis.yml; path = ../.travis.yml; sourceTree = "<group>"; };
+		B89C4198960A1F51637EE2D0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		BF534695B49F50999B2624C1 /* CHANGELOG.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = CHANGELOG.md; path = ../CHANGELOG.md; sourceTree = "<group>"; };
 		C8ADD0D167EC5C892D6FDF64 /* Pods-RealmAdditions_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RealmAdditions_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-RealmAdditions_Example/Pods-RealmAdditions_Example.release.xcconfig"; sourceTree = "<group>"; };
-		D54C7B5D79DB9AAB9907448A /* podCheck.command */ = {isa = PBXFileReference; includeInIndex = 1; name = podCheck.command; path = ../podCheck.command; sourceTree = "<group>"; };
+		D54C7B5D79DB9AAB9907448A /* podCheck.command */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; name = podCheck.command; path = ../podCheck.command; sourceTree = "<group>"; };
 		D8C5950C12DD0F30F97895A8 /* Pods-RealmAdditions_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RealmAdditions_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RealmAdditions_Example/Pods-RealmAdditions_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		F4FD7A24AA86912863A2C710 /* podPush.command */ = {isa = PBXFileReference; includeInIndex = 1; name = podPush.command; path = ../podPush.command; sourceTree = "<group>"; };
-		F8743838ABE2CFA68294DD1D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		FE8E8274943A4ADA31793E01 /* RealmAdditions.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = RealmAdditions.podspec; path = ../RealmAdditions.podspec; sourceTree = "<group>"; };
+		F4FD7A24AA86912863A2C710 /* podPush.command */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; name = podPush.command; path = ../podPush.command; sourceTree = "<group>"; };
+		F8743838ABE2CFA68294DD1D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		FE8E8274943A4ADA31793E01 /* RealmAdditions.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RealmAdditions.podspec; path = ../RealmAdditions.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -313,9 +313,14 @@
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-RealmAdditions_Tests/Pods-RealmAdditions_Tests-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Nimble/Nimble.framework",
+				"${BUILT_PRODUCTS_DIR}/Quick/Quick.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Nimble.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Quick.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -328,13 +333,16 @@
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-RealmAdditions_Example-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		9771EC9D58CC0CB21BEA7BD2 /* [CP] Check Pods Manifest.lock */ = {
@@ -343,13 +351,16 @@
 			files = (
 			);
 			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
 			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-RealmAdditions_Tests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
 		D7B01487FB6BFB670C2A77BF /* [CP] Embed Pods Frameworks */ = {
@@ -358,9 +369,14 @@
 			files = (
 			);
 			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-RealmAdditions_Example/Pods-RealmAdditions_Example-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Realm/Realm.framework",
+				"${BUILT_PRODUCTS_DIR}/RealmAdditions/RealmAdditions.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Realm.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RealmAdditions.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -528,7 +544,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.anton-plebanovich.RealmAdditions-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -543,7 +559,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.anton-plebanovich.RealmAdditions-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
