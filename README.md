@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/cocoapods/v/RealmAdditions.svg?style=flat)](http://cocoapods.org/pods/RealmAdditions)
 [![License](https://img.shields.io/cocoapods/l/RealmAdditions.svg?style=flat)](http://cocoapods.org/pods/RealmAdditions)
 [![Platform](https://img.shields.io/cocoapods/p/RealmAdditions.svg?style=flat)](http://cocoapods.org/pods/RealmAdditions)
-[![CI Status](http://img.shields.io/travis/anton-plebanovich/RealmAdditions.svg?style=flat)](https://travis-ci.org/anton-plebanovich/RealmAdditions)
+[![CI Status](http://img.shields.io/travis/APUtils/RealmAdditions.svg?style=flat)](https://travis-ci.org/APUtils/RealmAdditions)
 
 Adds Realm representation for Int, String, Double and Bool. This allows to store them in Realm Lists.
 
