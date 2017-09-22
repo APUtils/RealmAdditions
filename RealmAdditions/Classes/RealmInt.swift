@@ -11,7 +11,7 @@ import RealmSwift
 
 /// Realm representation of Int type
 public class RealmInt: Object, RealmValue {
-    public dynamic var value: Int = 0
+    @objc public dynamic var value: Int = 0
     
     public convenience required init(swiftValue: Int) {
         self.init()

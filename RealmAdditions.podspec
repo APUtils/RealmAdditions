@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'RealmAdditions'
-  s.version          = '1.0.3'
+  s.version          = '2.0.0'
   s.summary          = 'Adds Realm representation for Int, String, Double and Bool'
 
 # This description is used to generate tags and improve search results.
@@ -38,5 +38,5 @@ Adds Realm representation for Int, String, Double and Bool. This allows to store
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'Foundation'
-  s.dependency 'RealmSwift', '~> 2'
+  s.dependency 'RealmSwift'
 end

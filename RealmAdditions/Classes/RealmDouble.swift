@@ -11,7 +11,7 @@ import RealmSwift
 
 /// Realm representation of Double type
 public class RealmDouble: Object, RealmValue {
-    public dynamic var value: Double = 0
+    @objc public dynamic var value: Double = 0
     
     public convenience required init(swiftValue: Double) {
         self.init()

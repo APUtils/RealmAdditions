@@ -11,7 +11,7 @@ import RealmSwift
 
 /// Realm representation of String type
 public class RealmString: Object, RealmValue {
-    public dynamic var value: String = ""
+    @objc public dynamic var value: String = ""
     
     public convenience required init(swiftValue: String) {
         self.init()

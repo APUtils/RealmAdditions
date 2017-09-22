@@ -11,7 +11,7 @@ import RealmSwift
 
 /// Realm representation of Bool type
 public class RealmBool: Object, RealmValue {
-    public dynamic var value: Bool = false
+    @objc public dynamic var value: Bool = false
     
     public convenience required init(swiftValue: Bool) {
         self.init()
