@@ -10,6 +10,7 @@ import Foundation
 
 
 /// Realm value protocol
+@available(*, deprecated, message: "Realm 3 supports basic types natively")
 public protocol RealmValue: class {
     associatedtype ValueType
     

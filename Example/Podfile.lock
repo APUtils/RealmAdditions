@@ -1,13 +1,13 @@
 PODS:
-  - Nimble (7.0.1)
-  - Quick (1.1.0)
-  - Realm (2.10.1):
-    - Realm/Headers (= 2.10.1)
-  - Realm/Headers (2.10.1)
-  - RealmAdditions (2.0.1):
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+  - Realm (3.1.1):
+    - Realm/Headers (= 3.1.1)
+  - Realm/Headers (3.1.1)
+  - RealmAdditions (2.0.0):
     - RealmSwift
-  - RealmSwift (2.10.1):
-    - Realm (= 2.10.1)
+  - RealmSwift (3.1.1):
+    - Realm (= 3.1.1)
 
 DEPENDENCIES:
   - Nimble
@@ -19,12 +19,12 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  Nimble: 657d000e11df8aebe27cdaf9d244de7f30ed87f7
-  Quick: dafc587e21eed9f4cab3249b9f9015b0b7a7f71d
-  Realm: fc7a317a5c2c9ba91f5f235ede4e2ea76e9eba0c
-  RealmAdditions: 19021fe04b84e6469c781e13b2667dcfdb51a487
-  RealmSwift: 505ed6c15942a2e76f5cfa78a8667cfa997ee75b
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  Realm: 42d1c38a5b1bbcc828b48a7ce702cb86fc68adf4
+  RealmAdditions: 1cf1cd9148b26663b2cbe0f992725c90312f0afa
+  RealmSwift: d31937ca6a6ee54acde64ec839523c0a3c04924b
 
 PODFILE CHECKSUM: 8e0821081480938dbbd7f21c122e043acc4e1cb1
 
-COCOAPODS: 1.3.1
+COCOAPODS: 1.4.0

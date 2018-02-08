@@ -6,6 +6,8 @@
 [![Platform](https://img.shields.io/cocoapods/p/RealmAdditions.svg?style=flat)](http://cocoapods.org/pods/RealmAdditions)
 [![CI Status](http://img.shields.io/travis/APUtils/RealmAdditions.svg?style=flat)](https://travis-ci.org/APUtils/RealmAdditions)
 
+**RealmBool, RealmDouble, RealmInt, RealmString, RealmValue was deprecated. Realm 3 supports basic types natively.**
+
 Adds Realm representation for Int, String, Double and Bool. This allows to store them in Realm Lists.
 
 ## Example

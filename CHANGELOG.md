@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 `RealmAdditions` adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.0.1](https://github.com/APUtils/RealmAdditions/releases/tag/2.0.1)
+Released on 02/08/2018.
+
+RealmBool, RealmDouble, RealmInt, RealmString, RealmValue deprecation. Realm 3 supports basic types natively.
+
 ## [2.0.0](https://github.com/APUtils/RealmAdditions/releases/tag/2.0.0)
 Released on 09/22/2017.
 

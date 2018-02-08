@@ -10,6 +10,7 @@ import RealmSwift
 
 
 /// Realm representation of Int type
+@available(*, deprecated, message: "Realm 3 supports basic types natively")
 public class RealmInt: Object, RealmValue {
     @objc public dynamic var value: Int = 0
     

@@ -10,6 +10,7 @@ import RealmSwift
 
 
 /// Realm representation of Double type
+@available(*, deprecated, message: "Realm 3 supports basic types natively")
 public class RealmDouble: Object, RealmValue {
     @objc public dynamic var value: Double = 0
     

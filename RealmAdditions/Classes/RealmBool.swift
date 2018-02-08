@@ -10,6 +10,7 @@ import RealmSwift
 
 
 /// Realm representation of Bool type
+@available(*, deprecated, message: "Realm 3 supports basic types natively")
 public class RealmBool: Object, RealmValue {
     @objc public dynamic var value: Bool = false
     
