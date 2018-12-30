@@ -15,3 +15,10 @@ target 'RealmAdditions_Example' do
         pod 'Nimble'
     end
 end
+
+post_install do |installer|
+    # Add podInstall.command and podUpdate.command shell scripts to Pods project
+    pods_project = installer.pods_project
+    pods_project.new_file "../podInstall.command"
+    pods_project.new_file "../podUpdate.command"
+end

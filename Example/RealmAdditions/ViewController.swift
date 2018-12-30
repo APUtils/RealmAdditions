@@ -20,12 +20,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        // Compile time error. List can't hold Strings
-//        let stringsList = List<String>
-        
-        let realmString = RealmString(swiftValue: "string")
-        let list = List<RealmString>()
-        list.append(realmString)
-        print(list.first!.value)
+        let list = List<String>()
+        list.append("asd")
+        print(list.first!)
     }
 }
